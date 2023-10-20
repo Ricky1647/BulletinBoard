@@ -1,4 +1,4 @@
-#include "hw1.h"
+#include "hw.h"
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
